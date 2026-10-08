@@ -1,0 +1,12 @@
+{
+    "version":  "0.2.0",
+    "published":  "2026-10-08T13:35:42Z",
+    "commit":  "6ce3bf4",
+    "notes":  "First release: one-click installer and launcher",
+    "setup":  {
+                  "file":  "R6MC-Setup.exe",
+                  "url":  "https://raw.githubusercontent.com/ibx3671/absolute-dogshit-release/main/R6MC-Setup.exe",
+                  "sha256":  "D023D155B11CC42C781DDE44AF0CEE3EB5CD3B52C037F008F065AC7DA963ED54",
+                  "size":  453120
+              }
+}
