@@ -7,4 +7,4 @@ This repo only holds releases. `latest.json` is what the R6MC launcher reads to 
 (version, the setup's address, size and SHA-256). It is written by `tools\publish-release.ps1` in the source repo
 (`absolute-dogshit`, branch `main`), never by hand.
 
-Current: **0.2.0**: Restyled launcher (Verity theme, music)
+Current: **0.3.0**: Improved block placing (lines up with the map), no more Minecraft through walls, per-map grid
